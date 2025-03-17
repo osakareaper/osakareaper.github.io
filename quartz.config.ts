@@ -8,48 +8,48 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "osaka's garden 🌱",
+    pageTitleSuffix: " | osaka garden",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "quartz.jzhao.xyz", // CHANGE LATER
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Urbanist",
+        body: "Archivo",
+        code: "Ubuntu Mono"
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "rgb(248, 248, 248)",
+          lightgray: "rgb(220, 220, 220)",
+          gray: "rgb(168, 168, 168)",
+          darkgray: "rgb(90, 90, 90)",
+          dark: "rgb(42, 42, 42)",
+          secondary: "rgb(0, 0, 0)",
+          tertiary: "rgb(36, 182, 0)",
+          highlight: "rgba(128, 128, 128, 0.15)",
+          textHighlight: "rgba(255, 255, 255, 0.53)"
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
-        },
+          light: "rgb(0, 0, 0)",
+          lightgray: "rgb(58, 58, 58)",
+          gray: "rgb(112, 112, 112)",
+          darkgray: "rgb(168, 168, 168)",
+          dark: "rgb(255, 255, 255)",
+          secondary: "rgb(255, 255, 255)",
+          tertiary: "rgb(51, 255, 0)",
+          highlight: "rgba(81, 81, 81, 0.85)",
+          textHighlight: "rgba(192, 192, 192, 0.53)"
+        }
       },
     },
   },

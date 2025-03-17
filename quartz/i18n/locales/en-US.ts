@@ -2,8 +2,8 @@ import { Translation } from "./definition"
 
 export default {
   propertyDefaults: {
-    title: "Untitled",
-    description: "No description provided",
+    title: "0xUNKNOWN",
+    description: "nothin to see here",
   },
   components: {
     callout: {
@@ -30,13 +30,13 @@ export default {
       darkMode: "Dark mode",
     },
     explorer: {
-      title: "Explorer",
+      title: "wiki",
     },
     footer: {
-      createdWith: "Created with",
+      createdWith: "fukkin made wit",
     },
     graph: {
-      title: "Graph View",
+      title: "graph view",
     },
     recentNotes: {
       title: "Recent Notes",
@@ -47,8 +47,8 @@ export default {
       linkToOriginal: "Link to original",
     },
     search: {
-      title: "Search",
-      searchBarPlaceholder: "Search for something",
+      title: "egosearch here",
+      searchBarPlaceholder: "type yo name xd",
     },
     tableOfContents: {
       title: "Table of Contents",
@@ -68,7 +68,7 @@ export default {
       home: "Return to Homepage",
     },
     folderContent: {
-      folder: "Folder",
+      folder: "archive",
       itemsUnderFolder: ({ count }) =>
         count === 1 ? "1 item under this folder." : `${count} items under this folder.`,
     },
