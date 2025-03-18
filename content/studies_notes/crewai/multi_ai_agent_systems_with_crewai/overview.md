@@ -34,21 +34,21 @@ For this, we gonna use a few tools, such:
 # What is Agentic Automation?
 
 The beauty of agentic automation is that you **don't need to drown the map of the automation**.
-![[Pasted image 20250317220305.png]]
+![[assets/Pasted image 20250317220305.png]]
 
 You can **show the options**. It's fundamentally a new way to write software!
-![[Pasted image 20250317220336.png]]
+![[assets/Pasted image 20250317220336.png]]
 
 ## Fuzzy inputs, transformations, outputs
 
-![[Pasted image 20250317223626.png]]
+![[assets/Pasted image 20250317223626.png]]
 
 ## Data Collection and Analysis
 
 ### OG
 
-![[Pasted image 20250317224029.png]]
+![[assets/Pasted image 20250317224029.png]]
 
 ### Using Agents
 
-![[Pasted image 20250317224054.png]]
+![[assets/Pasted image 20250317224054.png]]

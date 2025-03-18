@@ -8,4 +8,4 @@ tags:
 ---
 This is the index for the Multi AI Agent Systems with CrewAI Course, developed by [DeepLearning.AI](https://deeplearning.ai)
 
-1. [Overview](multi_ai_agent_systems_with_crewai/overview)
+1. [Overview](studies_notes/crewai/multi_ai_agent_systems_with_crewai/overview)
