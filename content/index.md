@@ -1,6 +1,7 @@
 ---
 title: you visit the WISHING SKELETON
 ---
+<br />
 <div align="center">
 <p><em>"stay curious, stay rebellious and stay ahead"</em></p>
 </div>
